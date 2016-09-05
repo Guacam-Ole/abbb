@@ -1,0 +1,32 @@
+[
+  {
+    "type":"search",
+    "url":"www.google."
+    "name":"Google",
+    "closest":"div.g"
+  },
+  {
+    "type":"search",
+    "url":"search.yahoo.com",
+    "name":"Yahoo",
+    "closest":"li"
+  },
+  {
+    "type":"search",
+    "url":"www.bing.com",
+    "name":"Bing",
+    "closest":"li.b_algo"
+  },
+  {
+    "type":"other",
+    "url":"millerntor.hamburg",
+    "name":"Millerntor.Hamburg",
+    "closest":"div"
+  },
+  {
+    "type":"list",
+    "url":"news.google.",
+    "name":"Google News",
+    "closest":"div.esc-wrapper"
+  }
+]
